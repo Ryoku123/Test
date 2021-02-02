@@ -1,1 +1,4 @@
 Ryoku
+Stix
+Gypsy
+TacaX
